@@ -12,6 +12,10 @@ function arg_default(arg_name,arg_default_val)
 % kai* - Jun 2, 2004
 %
 % Revisions
+%  Aug 26, 2022 (Zoran)
+%   - Fixed a bug where the user wants to assign '' (empty char) and 
+%     instead gets [] (empty double).
+%   - cleaned up some syntax too (&&,||,'var',...)
 
 % Test if argument exist or is empty
 arg_exist      = evalin('caller',['exist(''' arg_name ''')==1']);
@@ -22,10 +26,14 @@ else
 end
 
 % Assign default value
-if (exist('arg_default_val')==1 & ~isempty(arg_default_val)) ...
-        & (~arg_exist | arg_isempty)
+if (exist('arg_default_val','var') && ~isempty(arg_default_val)) ...
+        && (~arg_exist || arg_isempty)
     assignin('caller',arg_name,arg_default_val);
-elseif (exist('arg_default_val')~=1 | isempty(arg_default_val)) ...
-        & (~arg_exist)
-    assignin('caller',arg_name,[]);
+elseif (~exist('arg_default_val','var') || isempty(arg_default_val)) ...
+        && (~arg_exist)
+    if ischar(arg_default_val)
+        assignin('caller',arg_name,arg_default_val);
+    else
+        assignin('caller',arg_name,[]);
+    end
  end
