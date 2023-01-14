@@ -62,4 +62,4 @@ This next function can only be run with the real dataset (with the data/all_cham
 ```
 UdeM_QC_2019
 ```
-Note: In addition to the above, additional data filtering has been done using an Excel spreadsheet. This additional data filtering and processing has been documented in the manuscript.
+Note: In addition to the above, the further data filtering has been carried out using an Excel spreadsheet. This data filtering and processing has been documented in the manuscript.
