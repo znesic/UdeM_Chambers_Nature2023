@@ -2,16 +2,21 @@
 
 ***
 ## Description
-This repository contains the codes produced for the article "Arctic soil methane sink stimulated by plant respiration and dry conditions" by Carolina Voigt, Anna-Maria Virkkala, Gabriel Hould Gosselin, Kathryn Bennett, T. Andrew Black, Charles Chevrier-Dion, Georg Guggenberger, Wasi Hashmi, Dan Kou, Charlotte Marquis, Philip Marsh, Maija Marushchak, Zoran Nesic, Hannu Nykänen, Taija Saarela, Leopold Sauheitl, Branden Walker, Niels Weiss, Evan J. Wilcox, Oliver Sonnentag.
+This repository contains the codes produced for the following article:
+
+Voigt, C., Virkkala, A.-M., Hould Gosselin, G., Bennett, K.A., Black, T.A., Detto, M., Chevrier-Dion, C., Guggenberger, G., Hashmi, W., Kohl, L., Kou, D., Marquis, C., Marsh, P., Marushchak, M.E., Nesic, Z., Nykänen, H., Saarela, T., Sauheitl, L., Walker, B., Weiss, N., Wilcox, E.J., Sonnentag, O. (2023). Arctic soil methane sink increases with drier conditions and higher ecosystem respiration. Nature Climate Change.
 
 ## Affiliated scientific institutions
-1. Department of Environmental and Biological Sciences, University of Eastern Finland, P.O. Box 1627, 70211 Kuopio, Finland
-2. Département de géographie & Centre d’études nordiques, Université de Montréal, 1375 Avenue Thérèse-Lavoie-Roux, Montréal, QC H2V 0B3, Canada
-3. Woodwell Climate Research Center, 149 Woods Hole Road, Falmouth, MA 02540-1644, USA
-4. Department of Geography and Environmental Studies & Cold Regions Research Centre, Wilfrid Laurier University, 75 University Avenue West, Waterloo, ON N2L 3C5, Canada
-5. Faculty of Land and Food Systems, University of British Columbia, 248-2357 Main Mall, Vancouver, BC V6T 1Z4, Canada
-6. Institute of Soil Science, Leibniz University Hanover, Herrenhäuser Str. 2, 30419 Hanover, Germany
-7. Northwest Territories Geological Survey, P.O. Box 1320, Yellowknife, NT X1A 2L9, Canada
+1.	Department of Environmental and Biological Sciences, University of Eastern Finland, P.O. Box 1627, 70211 Kuopio, Finland
+2.	Département de géographie & Centre d’études nordiques, Université de Montréal, 1375 Avenue Thérèse-Lavoie-Roux, Montréal, QC H2V 0B3, Canada
+3.	Institute of Soil Science, Universität Hamburg, Allende-Platz 2, 20146 Hamburg, Germany
+4.	Woodwell Climate Research Center, 149 Woods Hole Road, Falmouth, MA 02540-1644, USA
+5.	Department of Geography and Environmental Studies & Cold Regions Research Centre, Wilfrid Laurier University, 75 University Avenue West, Waterloo, ON N2L 3C5, Canada
+6.	Faculty of Land and Food Systems, University of British Columbia, 248-2357 Main Mall, Vancouver, BC V6T 1Z4, Canada
+7.	Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ 08544, USA
+8.	Institute of Soil Science, Leibniz Universität Hannover, Herrenhäuser Str. 2, 30419 Hannover, Germany
+9.	Department of Biological and Environmental Science, University of Jyväskylä, P.O. Box 35, 40014 Jyväskylä, Finland
+10.	Northwest Territories Geological Survey, P.O. Box 1320, Yellowknife, NT X1A 2L9, Canada
 
 ## Corresponding authors
 In case you have any question about the code and/or analyses presented in this repository, please contact Carolina Voigt (carolina.voigt@uef.fi) and Zoran Nesic (zoran.nesic@ubc.ca).
