@@ -61,6 +61,8 @@ load .\data\met-data\hhour\20190803_recalcs_UdeM.mat
 UdeM_show_one_run(dataStruct,2,10,'exp_B')
 ```
 
+Note: This code has a bug that made CH4 exponential fits less reliable so we mostly used the linear fits. This bug has been fixed in the following release but, to keep the results from the paper reproducible, this repository contains the original version of the code.
+
 ### QC processing:
 This next function can only be run with the real dataset (with the data/all_chambers.mat file), which can be requested by contacting Carolina Voigt (carolina.voigt@uef.fi).
 
