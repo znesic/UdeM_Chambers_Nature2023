@@ -4,7 +4,7 @@
 ## Description
 This repository contains the codes produced for the following article:
 
-Voigt, C., Virkkala, A.-M., Hould Gosselin, G., Bennett, K.A., Black, T.A., Detto, M., Chevrier-Dion, C., Guggenberger, G., Hashmi, W., Kohl, L., Kou, D., Marquis, C., Marsh, P., Marushchak, M.E., Nesic, Z., Nykänen, H., Saarela, T., Sauheitl, L., Walker, B., Weiss, N., Wilcox, E.J., Sonnentag, O. (2023). Arctic soil methane sink increases with drier conditions and higher ecosystem respiration. Nature Climate Change.
+Voigt, C., Virkkala, A.-M., Hould Gosselin, G., Bennett, K.A., Black, T.A., Detto, M., Chevrier-Dion, C., Guggenberger, G., Hashmi, W., Kohl, L., Kou, D., Marquis, C., Marsh, P., Marushchak, M.E., Nesic, Z., Nykänen, H., Saarela, T., Sauheitl, L., Walker, B., Weiss, N., Wilcox, E.J., Sonnentag, O. (2023). Arctic soil methane sink increases with drier conditions and higher ecosystem respiration. Nature Climate Change. DOI: 10.1038/s41558-023-01785-3
 
 ## Affiliated scientific institutions
 1.	Department of Environmental and Biological Sciences, University of Eastern Finland, P.O. Box 1627, 70211 Kuopio, Finland
